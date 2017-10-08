@@ -1,0 +1,11 @@
+{
+  "name": "MOMOMO",
+  "version": "0.0.1",
+  "dependencies": {
+    "firebase-admin": "^5.4.1",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.0",
+    "ip": "^0.1.0",
+    "node-onesignal": "^0.3.1"
+  }
+}
